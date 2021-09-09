@@ -1,0 +1,2 @@
+useDynLib(powertools, .registration=TRUE)
+exportPattern("^[^\\.]")
